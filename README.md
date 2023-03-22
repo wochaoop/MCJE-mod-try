@@ -1,2 +1,2 @@
 # MCJE-mod-try
-Try to develop Minecraft Java Edition Model
+Try to develop Minecraft Java Edition Module
